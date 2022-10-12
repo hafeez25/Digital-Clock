@@ -10,10 +10,14 @@
 
 .date-time {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 0.2rem;
+  box-shadow: 0 0 10px rgb(230, 230, 230);
+  padding: 3rem;
+  border-radius: 0.5rem;
+  text-align: center;
 }
 .date {
   font-size: 2rem;
-  text-align: center;
 }
 .time {
   font-size: 3rem;
