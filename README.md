@@ -7,8 +7,9 @@ Digital-Clock is a very basic react app. The whole purpose of making this projec
 [https://digitalclock-app.netlify.app/](https://digitalclock-app.netlify.app/)
 
 ## Preview
+![digital-clock](https://user-images.githubusercontent.com/83756518/195778028-77762f93-36ea-49dd-8ce3-e94453eefbde.png)
 
-//preview image insert
+
 
 ## Run Digital-Clock App
 
