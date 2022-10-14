@@ -27,6 +27,7 @@ npm run install
 - UI changes (color , size etc)
 - Add animation when second change
 - Make it responsive
+- Add favicon 
 - Or add anything you think it can improve project
 - **NOTE :** Please read our [contribution guidelines](/CONTRIBUTING.md) before contribution.
 
