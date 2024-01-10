@@ -1,0 +1,11 @@
+#main2 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.name {
+  font-size: 5em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 4rem;
+}
